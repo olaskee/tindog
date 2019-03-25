@@ -1,2 +1,1 @@
-# tindog
-my tindog bootcamp project
+TinDog Starting Files
